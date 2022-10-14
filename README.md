@@ -8,5 +8,5 @@ donut.gif
 
 
 <p align="center">
-  <img src="https://imgur.com/gallery/vxH6e3R">
+  <img src="https://imgur.com/vxH6e3R.gif">
 </p>
