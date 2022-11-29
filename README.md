@@ -6,7 +6,7 @@
 Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
 
 
-For this project, we will create an image recognition program that will be able to recognize and learn the difference between the plant segments and then provide information on the flower. The target audience are botanists and horticulturists so they can easily identify the flowers they want to research on. In addition to this, some side target audiences are florists, home gardeners, hikers, and pet owners so their pets won't eat the poisonous plants. 
+<h2>For this project, we will create an image recognition program that will be able to recognize and learn the difference between the plant segments and then provide information on the flower. The target audience are botanists and horticulturists so they can easily identify the flowers they want to research on. In addition to this, some side target audiences are florists, home gardeners, hikers, and pet owners so their pets won't eat the poisonous plants. </h2>
 	
 
 <ul>Research Questions to answer</ul>
