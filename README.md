@@ -1,4 +1,4 @@
-<p align="center"> Proposal: What are these plants and their stats?  </p>
+<hl align="center"> Proposal: What are these plants and their stats?  </h1>
 
 <p align="center"> Group Name: The below 6ft ones </p>
 
@@ -18,7 +18,9 @@ For this project, we will create an image recognition program that will be able 
 <li>Can we determine if they are poisonous </li>
 <li>What is the flower endangered status</li>
 
+
 <ul>Software to be used</ul>
+
 <li>Python Pandas</li>
 <li>Scikit-learn</li>
 <li>Python Matplotlib</li>
@@ -29,7 +31,6 @@ Datasets to be used:
 <li>https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models/notebook</li>
 
 <li>https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras/notebook</li>
-
 
 
 
