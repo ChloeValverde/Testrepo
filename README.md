@@ -1,4 +1,4 @@
-<hl align="center"> Proposal: What are these plants and their stats?  </h1>
+<hl> align="center"> Proposal: What are these plants and their stats?  </h1>
 
 <p align="center"> Group Name: The below 6ft ones </p>
 
@@ -11,20 +11,20 @@ For this project, we will create an image recognition program that will be able 
 
 <ul>Research Questions to answer</ul>
 
-	<li>How accurately can we predict the flower type</li>
-	<li>Can we determine whether they are seasonal or year round</li>
-	<li>What are the flower’s requirements for growing</li>
-	<li>What region does the flower originate from</li>
-	<li>Can we determine if they are poisonous </li>
-	<li>What is the flower endangered status</li>
+<li>How accurately can we predict the flower type</li>
+<li>Can we determine whether they are seasonal or year round</li>
+<li>What are the flower’s requirements for growing</li>
+<li>What region does the flower originate from</li>
+<li>Can we determine if they are poisonous </li>
+<li>What is the flower endangered status</li>
 
 
 <ul>Software to be used</ul>
 
-	<li>Python Pandas</li>
-	<li>Scikit-learn</li>
-	<li>Python Matplotlib</li>
-	<li>MongoDB Database</li>
+<li>Python Pandas</li>
+<li>Scikit-learn</li>
+<li>Python Matplotlib</li>
+<li>MongoDB Database</li>
 
 Datasets to be used: 
 <li>https://www.kaggle.com/code/aderezapahlevi/starter-flowers-recognition-7123e64e-8/data</li>
