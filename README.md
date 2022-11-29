@@ -1,6 +1,6 @@
 <h2 align="center"> Proposal: What are these plants and their stats?  </h2>
 
-<p align="center"> Group Name: The below 6ft ones </p>
+<p> Group Name: The below 6ft ones </p>
 
 
 Team members: Matthew Belcher, Kristal Concepcion, Jasmine Leal, Chloe Valverde
