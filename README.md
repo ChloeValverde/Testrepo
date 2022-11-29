@@ -1,4 +1,4 @@
-<p align="center"> Proposal: What are these plants and their stats?  /p>
+<p align="center"> Proposal: What are these plants and their stats?  </p>
 
 <p align="center"> Group Name: The below 6ft ones </p>
 
